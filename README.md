@@ -27,7 +27,7 @@ Soon there will be more information.
 ###### Activate the envirnmnet using conda activate webdev'
 ###### Install django to the environment using `conda install -c conda-forge django`
 
-## How to pull project and keep in touch with it's actual state?
+## How to pull project and keep in touch with it actual state?
 
 ###### Firstly create directory where you want the entire project to be saved and follow there.
 ###### Then fetch project with `git pull webdev-bmstu-dj`
