@@ -21,7 +21,7 @@ Soon there will be more information.
 ###### Activate bash script with `bash ~/Downloads/<Anaconda3-YYYY.MM-Linux-x86_64.sh>`. You can find YYYY and MM in your filename
 ###### Reboot terminal
 
-## How to create environment and instal django?
+## How to create environment and install django?
 
 ###### In the prompt (conda terminal) type `conda create --name webdev python=3.10` (or any name you like instead of webdev) to create conda environment with python 3.10 as interpreter.
 ###### Activate the envirnmnet using conda activate webdev'
