@@ -10,13 +10,25 @@ Backend development study project.
 Soon there will be more information.
 
 
-## How to install conda and create an environment?
+## How to install conda?
 
 ### For Windows users:
-#### Go to https://www.anaconda.com/download/ and download anaconda. 
-#### Type "anaconda" in Windows search and open the anaconda prompt
-![image](https://user-images.githubusercontent.com/117028992/233921481-c5478ad6-865e-4090-81e3-b25428c07c3d.png)
-#### type "conda create --name webdev python=3.10" (or any name you like instead of webdev) to create conda environment with python 3.10 as interpreteer.
-#### activate the envirnmnet using conda activate webdev **be carefull with the name!
-#### use conda install -c conda-forge django to install django
-#### u are almost ready to go!
+###### Firstly let's download [Anaconda](https://www.anaconda.com/download/).
+###### Then type `anaconda` in Windows search and open the anaconda prompt
+### For Linux users:
+###### Install dependencies `apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6`
+###### Download [Anaconda] for Linux `https://www.anaconda.com/download/#linux`
+###### Activate bash script with `bash ~/Downloads/<Anaconda3-YYYY.MM-Linux-x86_64.sh>`. You can find YYYY and MM in your filename
+###### Reboot terminal
+
+## How to create environment and instal django?
+
+###### In the prompt (conda terminal) type `conda create --name webdev python=3.10` (or any name you like instead of webdev) to create conda environment with python 3.10 as interpreter.
+###### Activate the envirnmnet using conda activate webdev'
+###### Install django to the environment using `conda install -c conda-forge django`
+
+## How to pull project and keep in touch with it's actual state?
+
+###### Firstly create directory where you want the entire project to be saved and follow there.
+###### Then fetch project with `git pull webdev-bmstu-dj`
+### More guidance informations is coming soon!
