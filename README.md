@@ -32,3 +32,6 @@ Soon there will be more information.
 ###### Firstly create directory where you want the entire project to be saved and follow there.
 ###### Then fetch project with `git clone https://github.com/BorisSmorodin/webdev-bmstu-dj.git`
 ### More guidance informations is coming soon!
+
+## Workflow
+## Project structure
