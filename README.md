@@ -17,7 +17,7 @@ Soon there will be more information.
 ###### Then type `anaconda` in Windows search and open the anaconda prompt
 ### For Linux users:
 ###### Install dependencies `apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6`
-###### Download [Anaconda] for Linux `https://www.anaconda.com/download/#linux`
+###### Download [Anaconda](https://www.anaconda.com/download/#linux)
 ###### Activate bash script with `bash ~/Downloads/<Anaconda3-YYYY.MM-Linux-x86_64.sh>`. You can find YYYY and MM in your filename
 ###### Reboot terminal
 
