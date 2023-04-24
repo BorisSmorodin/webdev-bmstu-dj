@@ -30,5 +30,5 @@ Soon there will be more information.
 ## How to pull project and keep in touch with it actual state?
 
 ###### Firstly create directory where you want the entire project to be saved and follow there.
-###### Then fetch project with `git pull webdev-bmstu-dj`
+###### Then fetch project with `git clone https://github.com/BorisSmorodin/webdev-bmstu-dj.git`
 ### More guidance informations is coming soon!
